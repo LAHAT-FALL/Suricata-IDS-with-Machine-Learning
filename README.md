@@ -65,7 +65,5 @@ The system was validated with real attack simulations:
 ---
 
 ## 👨‍💻 Authors
----LAHAT FALL
-
-
-**Information Security, University of Information Technology – VNU-HCM**
+Analyste SOC /Data-Science (Junior) · DFIR · Cyber Defense
+B.Sc. Informatique – Sécurité des Réseaux  @ UQAC
